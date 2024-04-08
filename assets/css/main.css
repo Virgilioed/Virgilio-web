@@ -3329,6 +3329,6 @@ input, select, textarea {
 		}
 		/* Container */
 		.form-container {
-			margin-left: 80px; /* Ajusta el margen izquierdo según sea necesario */
-			margin-right: 80px; /* Ajusta el margen derecho según sea necesario */
+			margin-left: 200px; /* Ajusta el margen izquierdo según sea necesario */
+			margin-right: 200px; /* Ajusta el margen derecho según sea necesario */
 		}
