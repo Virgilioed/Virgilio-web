@@ -2349,7 +2349,7 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: <Lenght-percentage>;
+				width: 100%;
 			}
 
 		.image.main {
