@@ -2327,7 +2327,7 @@ input, select, textarea {
 		}
 
 			.image.left img, .image.right img {
-				width: fit-content;
+				width: revert-layer;
 			}
 
 		.image.left {
