@@ -2327,15 +2327,13 @@ input, select, textarea {
 		}
 
 			.image.left img, .image.right img {
-				;
-				
+				width: 100%;
 			}
 
 		.image.left {
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
-			
 		}
 
 		.image.right {
